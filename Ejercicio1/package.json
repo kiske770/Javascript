@@ -1,0 +1,14 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "ejercicio - creacion de objeto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Etiquetas.js"
+  },
+  "keywords": [
+    "objecto"
+  ],
+  "author": "Mario Avendano",
+  "license": "ISC"
+}

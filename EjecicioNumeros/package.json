@@ -1,0 +1,16 @@
+{
+  "name": "ejercicionumeros",
+  "version": "1.0.0",
+  "description": "ejercicio numeros",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ejercicio-numeros.js"
+  },
+  "keywords": [
+    "number",
+    "-",
+    "parseInt"
+  ],
+  "author": "Mario Avendano",
+  "license": "ISC"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "funciones",
+  "version": "1.0.0",
+  "description": "Ejercicio Funciones",
+  "main": "functiones.js",
+  "scripts": {
+    "start": "node functiones.js"
+  },
+  "keywords": [
+    "function"
+  ],
+  "author": "Mario Avendano",
+  "license": "ISC"
+}

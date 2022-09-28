@@ -1,0 +1,2 @@
+{"level":"error","message":"An exception has ocurred: Error: The value 9 must be numeric.","service":"user-service"}
+{"level":"error","message":"An exception has ocurred: Error: Error: you can't divide by zero!'","service":"user-service"}

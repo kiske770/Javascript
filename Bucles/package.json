@@ -1,0 +1,16 @@
+{
+  "name": "bucles",
+  "version": "1.0.0",
+  "description": "Ejercicios dfe bucles",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "for",
+    "-",
+    "while"
+  ],
+  "author": "Mario Avendaño",
+  "license": "ISC"
+}

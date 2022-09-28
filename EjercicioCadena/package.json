@@ -1,0 +1,17 @@
+{
+  "name": "cadenas",
+  "version": "1.0.0",
+  "description": "ejercicio sobre cadenas",
+  "main": "cadenas.js",
+  "scripts": {
+    "start": "node cadenas.js"
+  },
+  "keywords": [
+    "cadena",
+    "upper",
+    "lower",
+    "lenght"
+  ],
+  "author": "Mario Avendaño",
+  "license": "ISC"
+}

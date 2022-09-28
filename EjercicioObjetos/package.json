@@ -1,0 +1,14 @@
+{
+  "name": "ejercicio-objetos",
+  "version": "1.0.0",
+  "description": "ejercicio objetos",
+  "main": "objetos.js",
+  "scripts": {
+    "start": "node about_blank.js"
+  },
+  "keywords": [
+    "objetos"
+  ],
+  "author": "Mario Avendano",
+  "license": "ISC"
+}
